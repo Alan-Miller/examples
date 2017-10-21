@@ -1,6 +1,6 @@
 # examples
-[x] Working examples of different technologies
-[] Working examples of different technologies
+- [x] Working examples of different technologies
+- [] Working examples of different technologies
 
 ## cart
 Small shop app
