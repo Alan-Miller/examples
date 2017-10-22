@@ -81,7 +81,7 @@ Tech:
 ## rpm (react-promise-middleware) list
 [github.com/Alan-Miller/rpm](https://github.com/Alan-Miller/rpm)
 
-List app lets user add and delete list items in a database, using Redux and react-promise-middleware to handle the promises.
+List app lets user add and delete list items in a database, using Redux to store the values and react-promise-middleware to handle the promises.
 
 <details>
 <summary>Details</summary>
