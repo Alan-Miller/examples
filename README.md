@@ -15,10 +15,8 @@ Tech:
 * Back and Forward buttons change photo manually and restarts automatic interval.
 </details>
 
+___  
   
-  
-  
-
 ## shop with cart
 Small shop app lets user browse, view details, and place items in cart. 
 
