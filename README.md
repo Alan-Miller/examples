@@ -18,10 +18,10 @@ Tech:
 
 ---
   
-## pmw
+## rpm
 List app lets user add and delete list items.
 
-[github.com/Alan-Miller/pmw](https://github.com/Alan-Miller/pmw)
+[github.com/Alan-Miller/rpm](https://github.com/Alan-Miller/rpm)
 
 Tech:
 * React with Redux
