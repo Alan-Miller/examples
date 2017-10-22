@@ -1,5 +1,4 @@
-# examples
-Working examples of different technologies
+# mini tech examples
 
 ## shop with cart
 #### Small shop app lets user browse, view details, and place items in cart. 
