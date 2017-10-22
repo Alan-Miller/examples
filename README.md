@@ -3,6 +3,7 @@ Working examples of different technologies
 
 ## shop with cart
 > Small shop app lets user browse, view details, and place items in cart. 
+
 > Tech:
 > * React with Redux
 > * axios
