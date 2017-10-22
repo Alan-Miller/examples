@@ -54,7 +54,7 @@ Three repos showing different forms of parallax.
 <summary>Details</summary>
 
 * Pure CSS parallax repo shows parallax using large layers.
-* Fixed-image parallax is a pseudo-parallax effect made by simply setting the `background-attachment` property to `fixed` in place so that the elements scroll but the images do not.
+* Fixed-image parallax is a pseudo-parallax effect made by simply setting the `background-attachment` property to `fixed` so the elements scroll but the images do not.
 * jQuery scrollTop lets you move things on screen at different speeds, or perform other transforms like rotate or fade, based on the amount the user has scrolled from the top of the page.
 </details>
 <br/>
