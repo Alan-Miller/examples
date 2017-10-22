@@ -18,7 +18,7 @@ Tech:
 
 ---
   
-## rpm
+## rpm (react-promise-middleware) list
 List app lets user add and delete list items.
 
 [github.com/Alan-Miller/rpm](https://github.com/Alan-Miller/rpm)
