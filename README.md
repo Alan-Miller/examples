@@ -47,7 +47,8 @@ App lets user route to different components, making API and database request, an
 [githumb.com/Alan-Miller/reducks](https://githumb.com/Alan-Miller/reducks)
 
 Tech:
-* React with Redux
+* React 
+* Redux
 * axios
 * massive
 
@@ -59,7 +60,8 @@ List app lets user add and delete list items.
 [github.com/Alan-Miller/rpm](https://github.com/Alan-Miller/rpm)
 
 Tech:
-* React with Redux
+* React 
+* Redux
 * react-promise-middleware
 * axios
 
@@ -79,7 +81,8 @@ Small shop app lets user browse, view details, and place items in cart.
 [github.com/Alan-Miller/cart](https://github.com/Alan-Miller/cart)
 
 Tech:
-* React with Redux
+* React 
+* Redux
 * axios
 
 <details>
