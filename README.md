@@ -86,6 +86,7 @@ List app lets user add and delete list items.
 * Form adds new teachers on Redux using react-promise-middleware to make axios requests.
 * Clicking a teacher in the list deletes the teacher from the database.
 </details>
+<br />
 
 Tech:
 * React 
