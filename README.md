@@ -1,7 +1,8 @@
 # mini tech examples
 
-## carousel  #### carousel with forward and back buttons and auto-forward
-#### [github.com/Alan-Miller/carousel](https://github.com/Alan-Miller/carousel)
+## carousel  
+carousel with forward and back buttons and auto-forward
+[github.com/Alan-Miller/carousel](https://github.com/Alan-Miller/carousel)
 
 Tech:
 > * React
@@ -13,10 +14,13 @@ Tech:
 > * Back and Forward buttons change photo manually and restarts automatic interval.
 </details>
 
+-
+-
+-
 
 ## shop with cart
-#### Small shop app lets user browse, view details, and place items in cart. 
-#### [github.com/Alan-Miller/cart](https://github.com/Alan-Miller/cart)
+Small shop app lets user browse, view details, and place items in cart. 
+[github.com/Alan-Miller/cart](https://github.com/Alan-Miller/cart)
 
 Tech:
 > * React with Redux
