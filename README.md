@@ -1,8 +1,8 @@
 
 ---
 
-### carousel  
-carousel with forward and back buttons and auto-forward
+## carousel  
+Carousel with forward and back buttons and auto-forward.
 
 [github.com/Alan-Miller/carousel](https://github.com/Alan-Miller/carousel)
 
@@ -18,7 +18,27 @@ Tech:
 
 ---
   
-### shop with cart
+## pmw
+List app lets user add and delete list items.
+
+[github.com/Alan-Miller/pmw](https://github.com/Alan-Miller/pmw)
+
+Tech:
+* React with Redux
+* react-promise-middleware
+* axios
+
+<details>
+<summary>Details</summary>
+
+* Component fires Redux action with promise on payload. Promise resolves with teacher data from database.
+* Form adds new teachers on Redux using react-promise-middleware to make axios requests.
+* Clicking a teacher in the list deletes the teacher from the database.
+</details>
+
+---
+  
+## shop with cart
 Small shop app lets user browse, view details, and place items in cart. 
 
 [github.com/Alan-Miller/cart](https://github.com/Alan-Miller/cart)
