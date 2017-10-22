@@ -40,6 +40,16 @@ Tech:
 </details>
 
 ---
+
+## reducks
+App lets user route to different components, making API and database request, and changing values on Redux
+
+Tech:
+* React with Redux
+* axios
+* massive
+
+---
   
 ## rpm (react-promise-middleware) list
 List app lets user add and delete list items.
