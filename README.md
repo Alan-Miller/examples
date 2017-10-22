@@ -1,4 +1,3 @@
-# mini tech examples
 ---
 
 ## carousel  
