@@ -21,11 +21,11 @@ Tech:
 ## parallax
 Three repos showing different forms of parallax.
 
-[github.com/Alan-Miller/Parallax-CSS](https://github.com/Alan-Miller/Parallax-CSS)
+> * CSS: [github.com/Alan-Miller/Parallax-CSS](https://github.com/Alan-Miller/Parallax-CSS)
 
-[github.com/Alan-Miller/Parallax-Fixed-Image](https://github.com/Alan-Miller/Parallax-Fixed-Image)
+> * background-attachment: [github.com/Alan-Miller/Parallax-Fixed-Image](https://github.com/Alan-Miller/Parallax-Fixed-Image)
 
-[github.com/Alan-Miller/Parallax-scrollTop](https://github.com/Alan-Miller/Parallax-scrollTop)
+> * jQuery: [github.com/Alan-Miller/Parallax-scrollTop](https://github.com/Alan-Miller/Parallax-scrollTop)
 
 Tech:
 * CSS (no JavaScript)
