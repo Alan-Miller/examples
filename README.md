@@ -4,7 +4,7 @@
 
 ## cart
 > Small shop app lets user browse, view details, and place items in cart. Uses Redux and axios.
-  <details>
+  > <details>
   <summary>Details</summary>
 
   * Shop button makes axios request to outside API and stores response on Redux.
