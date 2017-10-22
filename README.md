@@ -1,11 +1,10 @@
 # examples
-- [x] Working examples of different technologies
-- [] Working examples of different technologies
+Working examples of different technologies
 
-## cart
+## shop with cart
 > Small shop app lets user browse, view details, and place items in cart. Uses Redux and axios.
   <details>
-  > <summary>Details</summary>
+  <summary>Details</summary>
 
   > * Shop button makes axios request to outside API and stores response on Redux.
   > * Clicking a product makes axios request using product ID to get product details, storing response on Redux.
