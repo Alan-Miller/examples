@@ -95,6 +95,7 @@ Tech:
 </details>
 
 <details>
+
 <summary>Special instructions</summary>
 
 * Make a teachers table with data. I recommend adding a test table to an existing one you have. You can use SQL commands in the the createTables.sql file to create the table and insert some initial data into it.
