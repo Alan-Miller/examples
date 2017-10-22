@@ -79,6 +79,7 @@ Tech:
 
 List app lets user add and delete list items.
 
+
 Tech:
 * React 
 * Redux
@@ -91,4 +92,18 @@ Tech:
 * Component fires Redux action with promise on payload. Promise resolves with teacher data from database.
 * Form adds new teachers on Redux using react-promise-middleware to make axios requests.
 * Clicking a teacher in the list deletes the teacher from the database.
+</details>
+
+<details>
+<summary>Special instructions</summary>
+
+* Make a teachers table with data. I recommend adding a test table to an existing one you have. You can use SQL commands in the the createTables.sql file to create the table and insert some initial data into it.
+* The .gitignore file ignores the config.js file, so make your own config.js file at the root of the project folder. Inside, export an object with a port value and a connection string.
+
+``` js
+module.exports = {
+  PORT: 3001, // pick a port number
+  connection: 'yourConnectionStringHere' // connection string to your db
+}
+```
 </details>
