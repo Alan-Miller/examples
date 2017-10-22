@@ -31,6 +31,14 @@ Tech:
 * CSS (no JavaScript)
 * jQuery in vanilla JavaScript environment (scrollTop repo)
 
+<details>
+<summary>Details</summary>
+
+* Pure CSS parallax repo shows parallax using large layers.
+* Fixed-image parallax is a pseudo-parallax effect made by simply setting a background image to be fixed in place so that the elements scroll but the images do not.
+* jQuery scrollTop lets you move things on screen at different speeds, or perform other transforms like rotate or fade, based on the amount the user has scrolled from the top of the page.
+</details>
+
 ---
   
 ## rpm (react-promise-middleware) list
