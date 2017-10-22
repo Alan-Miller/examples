@@ -7,8 +7,7 @@ Working examples of different technologies
 > Tech:
 > * React with Redux
 > * axios
->
-  <details>
+><details>
   <summary>Details</summary>
 
   > * Shop button makes axios request to outside API and stores response on Redux.
