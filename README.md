@@ -18,6 +18,19 @@ Tech:
 
 ---
   
+## parallax
+Three repos showing different forms of parallax.
+
+[github.com/Alan-Miller/Parallax-CSS](https://github.com/Alan-Miller/Parallax-CSS)
+[github.com/Alan-Miller/Parallax-Fixed-Image](https://github.com/Alan-Miller/Parallax-Fixed-Image)
+[github.com/Alan-Miller/Parallax-scrollTop](https://github.com/Alan-Miller/Parallax-scrollTop)
+
+Tech:
+* CSS (no JavaScript)
+* jQuery in vanilla JavaScript environment (scrollTop repo)
+
+---
+  
 ## rpm (react-promise-middleware) list
 List app lets user add and delete list items.
 
