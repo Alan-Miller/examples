@@ -94,7 +94,7 @@ List app lets user add and delete list items.
 <details>
 <summary>Special instructions</summary>
 
-* Make a teachers table with data. I recommend adding a test table to an existing one you have. You can use SQL commands in the the createTables.sql file to create the table and insert some initial data into it, or copy the SQL commands below:
+* Make a teachers table with data. I recommend adding a teachers table to an existing database you already have. To create the table and insert some initial data into it, copy the SQL commands in the createTables.sql file or copy the lines below:
   ```sql
   create table teachers (
     id serial primary key,
