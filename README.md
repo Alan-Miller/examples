@@ -2,7 +2,7 @@
 
 ## carousel
 #### carousel with forward and back buttons and auto-forward \
-####[github.com/Alan-Miller/carousel](https://github.com/Alan-Miller/carousel)
+#### [github.com/Alan-Miller/carousel](https://github.com/Alan-Miller/carousel)
 
 Tech:
 > * React
