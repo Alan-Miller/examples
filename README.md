@@ -1,10 +1,30 @@
 
 ---
+  
+## cart
+[github.com/Alan-Miller/cart](https://github.com/Alan-Miller/cart)
+
+Small shop app lets user browse, view details, and place items in cart. 
+
+Tech:
+* React 
+* Redux
+* axios
+
+<details>
+<summary>Details</summary>
+
+* Shop button makes axios request to outside API and stores response on Redux.
+* Clicking a product makes axios request using product ID to get product details, storing response on Redux.
+* Add To Cart button pushes product into array stored on Redux. The number of items in the cart is updated in the header (Cart button).
+</details>
+
+---
 
 ## carousel  
-Carousel with forward and back buttons and auto-forward.
-
 [github.com/Alan-Miller/carousel](https://github.com/Alan-Miller/carousel)
+
+Carousel with forward and back buttons and auto-forward.
 
 Tech:
 * React
@@ -42,9 +62,9 @@ Tech:
 ---
 
 ## reducks
-App lets user route to different components, making API and database request, and changing values on Redux.
-
 [githumb.com/Alan-Miller/reducks](https://githumb.com/Alan-Miller/reducks)
+
+App lets user route to different components, making API and database request, and changing values on Redux.
 
 Tech:
 * React 
@@ -55,9 +75,9 @@ Tech:
 ---
   
 ## rpm (react-promise-middleware) list
-List app lets user add and delete list items.
-
 [github.com/Alan-Miller/rpm](https://github.com/Alan-Miller/rpm)
+
+List app lets user add and delete list items.
 
 Tech:
 * React 
@@ -71,24 +91,4 @@ Tech:
 * Component fires Redux action with promise on payload. Promise resolves with teacher data from database.
 * Form adds new teachers on Redux using react-promise-middleware to make axios requests.
 * Clicking a teacher in the list deletes the teacher from the database.
-</details>
-
----
-  
-## shop with cart
-Small shop app lets user browse, view details, and place items in cart. 
-
-[github.com/Alan-Miller/cart](https://github.com/Alan-Miller/cart)
-
-Tech:
-* React 
-* Redux
-* axios
-
-<details>
-<summary>Details</summary>
-
-* Shop button makes axios request to outside API and stores response on Redux.
-* Clicking a product makes axios request using product ID to get product details, storing response on Redux.
-* Add To Cart button pushes product into array stored on Redux. The number of items in the cart is updated in the header (Cart button).
 </details>
