@@ -13,6 +13,8 @@ Small shop app lets user browse, view details, and place items in cart.
 * Clicking a product makes axios request using product ID to get product details, storing response on Redux.
 * Add To Cart button pushes product into array stored on Redux. The number of items in the cart is updated in the header (Cart button).
 </details>
+<br/>
+
 
 Tech:
 * React 
@@ -32,6 +34,7 @@ Carousel with forward and back buttons and auto-forward.
 * setInterval changes photos automatically.
 * Back and Forward buttons change photo manually and restarts automatic interval.
 </details>
+<br/>
 
 Tech:
 * React
@@ -54,6 +57,7 @@ Three repos showing different forms of parallax.
 * Fixed-image parallax is a pseudo-parallax effect made by simply setting a background image to be fixed in place so that the elements scroll but the images do not.
 * jQuery scrollTop lets you move things on screen at different speeds, or perform other transforms like rotate or fade, based on the amount the user has scrolled from the top of the page.
 </details>
+<br/>
 
 Tech:
 * CSS (no JavaScript)
@@ -86,16 +90,9 @@ List app lets user add and delete list items.
 * Form adds new teachers on Redux using react-promise-middleware to make axios requests.
 * Clicking a teacher in the list deletes the teacher from the database.
 </details>
-<br />
-
-Tech:
-* React 
-* Redux
-* react-promise-middleware
-* axios
+<br/>
 
 <details>
-
 <summary>Special instructions</summary>
 
 * Make a teachers table with data. I recommend adding a test table to an existing one you have. You can use SQL commands in the the createTables.sql file to create the table and insert some initial data into it.
@@ -108,3 +105,10 @@ module.exports = {
 }
 ```
 </details>
+<br/>
+
+Tech:
+* React 
+* Redux
+* react-promise-middleware
+* axios
