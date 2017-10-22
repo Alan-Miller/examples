@@ -94,8 +94,27 @@ List app lets user add and delete list items.
 <details>
 <summary>Special instructions</summary>
 
-* Make a teachers table with data. I recommend adding a test table to an existing one you have. You can use SQL commands in the the createTables.sql file to create the table and insert some initial data into it.
-* The .gitignore file ignores the config.js file, so make your own config.js file at the root of the project folder. Inside, export an object with a port value and a connection string like the one below.
+* Make a teachers table with data. I recommend adding a test table to an existing one you have. You can use SQL commands in the the createTables.sql file to create the table and insert some initial data into it, or copy the SQL commands below:
+  ```sql
+  create table teachers (
+    id serial primary key,
+    name varchar(40),
+    subject varchar(40)
+  );
+
+  insert into teachers
+  (name, subject)
+  values
+  ('Philby', 'Chemistry'),
+  ('Barnaby', 'Chemistry'),
+  ('Monaghan', 'History'),
+  ('Grable', 'History'),
+  ('Marx', 'Geometry'),
+  ('Kim', 'Geometry'),
+  ('Termagant', 'English'),
+  ('Stiller', 'English');
+  ```
+* The .gitignore file ignores the config.js file, so make your own config.js file at the root of the project folder. Inside, export an object with a port value and a connection string like the one below:
 
   ``` js
   module.exports = {
