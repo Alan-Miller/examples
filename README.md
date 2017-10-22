@@ -15,7 +15,7 @@ Tech:
 * Back and Forward buttons change photo manually and restarts automatic interval.
 </details>
 
->
+>|
 >
 >
 >
