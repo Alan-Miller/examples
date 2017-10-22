@@ -42,7 +42,9 @@ Tech:
 ---
 
 ## reducks
-App lets user route to different components, making API and database request, and changing values on Redux
+App lets user route to different components, making API and database request, and changing values on Redux.
+
+[githumb.com/Alan-Miller/reducks](https://githumb.com/Alan-Miller/reducks)
 
 Tech:
 * React with Redux
