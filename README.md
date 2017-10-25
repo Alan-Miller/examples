@@ -66,7 +66,7 @@ Tech:
 ---
 
 ## reducks
-[githumb.com/Alan-Miller/reducks](https://githumb.com/Alan-Miller/reducks)
+[github.com/Alan-Miller/reducks](https://github.com/Alan-Miller/reducks)
 
 App lets user route to different components, making API and database requests and changing values on Redux.
 
