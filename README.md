@@ -190,3 +190,24 @@ Tech:
 * react-promise-middleware
 * axios
 * massive
+
+---
+  
+## stripe checkout
+[github.com/Alan-Miller/stripe-checkout](https://github.com/Alan-Miller/stripe-checkout)
+
+Example of Stripe Checkout (simple) in React. Based on [Joe Blank's repo](https://github.com/joeblank/react-stripe).
+
+<details>
+<summary>Details</summary>
+
+* Pay With Card button open form, which gets token back from Stripe. Token can be console logged.
+* When the token arrives, a POST request is sent with the token id to the server to make a charge, and a response comes back (if it is an error, the charge failed).
+<br/>
+
+Tech:
+* React 
+* Redux
+* react-promise-middleware
+* axios
+* massive
