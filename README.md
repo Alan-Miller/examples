@@ -222,7 +222,7 @@ Tech:
 ## stripe checkout (custom)
 [github.com/Alan-Miller/stripe-checkout-custom](https://github.com/Alan-Miller/stripe-checkout-custom)
 
-Example of Stripe Checkout (custom button) in React.
+Example of Stripe Checkout (with custom button) in React.
 
 <details>
 <summary>Details</summary>
