@@ -197,7 +197,7 @@ Tech:
 ## stripe checkout
 [github.com/Alan-Miller/stripe-checkout](https://github.com/Alan-Miller/stripe-checkout)
 
-Example of Stripe Checkout (simple) in React. Based on [Joe Blank's repo](https://github.com/joeblank/react-stripe).
+Example of Stripe Checkout (simple) in React. Based on [Joe Blank's repo](https://github.com/joeblank/react-stripe). Contains some extra notes in the comments taken from Joe's explanation of the process.
 
 <details>
 <summary>Details</summary>
