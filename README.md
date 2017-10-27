@@ -22,6 +22,25 @@ Tech:
 * CSS 
 
 ---
+
+## carousel  
+[github.com/Alan-Miller/carousel](https://github.com/Alan-Miller/carousel)
+
+Carousel with forward and back buttons and auto-forward.
+
+<details>
+<summary>Details</summary>
+
+* setInterval changes photos automatically.
+* Back and Forward buttons change photo manually and restarts automatic interval.
+</details>
+<br/>
+
+Tech:
+* React
+* CSS and inline styles
+
+---
   
 ## cart
 [github.com/Alan-Miller/cart](https://github.com/Alan-Miller/cart)
@@ -42,25 +61,6 @@ Tech:
 * React 
 * Redux
 * axios
-
----
-
-## carousel  
-[github.com/Alan-Miller/carousel](https://github.com/Alan-Miller/carousel)
-
-Carousel with forward and back buttons and auto-forward.
-
-<details>
-<summary>Details</summary>
-
-* setInterval changes photos automatically.
-* Back and Forward buttons change photo manually and restarts automatic interval.
-</details>
-<br/>
-
-Tech:
-* React
-* CSS and inline styles
 
 ---
   
