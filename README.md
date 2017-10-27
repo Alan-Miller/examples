@@ -60,6 +60,7 @@ Carousel with forward and back buttons and auto-forward.
 
 Tech:
 * React
+* CSS and inline styles
 
 ---
   
@@ -207,6 +208,7 @@ Example of Stripe Checkout (simple) in React. Based on [Joe Blank's repo](https:
 <br/>
 
 Tech:
+* React
 * Stripe Checkout
 
 ---
@@ -231,4 +233,5 @@ Example of Stripe Checkout (custom button) in React.
 <br/>
 
 Tech:
+* React
 * Stripe Checkout
