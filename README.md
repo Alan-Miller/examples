@@ -222,7 +222,7 @@ Tech:
 ## stripe checkout (custom button)
 [github.com/Alan-Miller/stripe-checkout-custom](https://github.com/Alan-Miller/stripe-checkout-custom)
 
-Example of Stripe Checkout (with custom button) in React. Uses <script> tag instead of installing ```react-stripe-checkout```.
+Example of Stripe Checkout (with custom button) in React. Uses ```<script>``` tag instead of installing ```react-stripe-checkout```.
 
 <details>
 <summary>Details</summary>
