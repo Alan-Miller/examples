@@ -201,7 +201,7 @@ Example of Stripe Checkout (simple) in React. Based on [Joe Blank's repo](https:
 <details>
 <summary>Details</summary>
 
-* Pay With Card button open form, which gets token back from Stripe. Token can be console logged.
+* Pay With Card button opens form, which gets token back from Stripe. Token can be console logged.
 * When the token arrives, a POST request is sent with the token id to the server to make a charge, and a response comes back (if it is an error, the charge failed).
 </details>
 <br/>
