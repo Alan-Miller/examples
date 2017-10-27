@@ -77,7 +77,7 @@ Three repos showing different forms of parallax.
 <summary>Details</summary>
 
 * Pure CSS parallax repo shows parallax using large layers.
-* Fixed-image parallax is a pseudo-parallax effect made by simply setting the `background-attachment` property to `fixed` so the elements scroll but the images do not.
+* Fixed-image parallax is a pseudo-parallax effect made by simply setting the ```background-attachment``` property to ```fixed``` so the elements scroll but the images do not.
 * jQuery scrollTop lets you move things on screen at different speeds, or perform other transforms like rotate or fade, based on the amount the user has scrolled from the top of the page.
 </details>
 <br/>
@@ -222,11 +222,12 @@ Tech:
 ## stripe checkout (custom button)
 [github.com/Alan-Miller/stripe-checkout-custom](https://github.com/Alan-Miller/stripe-checkout-custom)
 
-Example of Stripe Checkout (with custom button) in React.
+Example of Stripe Checkout (with custom button) in React. Uses <script> tag instead of installing ```react-stripe-checkout```.
 
 <details>
 <summary>Details</summary>
 
+* Repo uses ```<script src="https://checkout.stripe.com/checkout.js"></script>``` tag in index.html.
 * Pay With Card button opens form, which gets token back from Stripe. Token can be console logged.
 * When the token arrives, a POST request is sent with the token id to the server to make a charge, and a response comes back (if it is an error, the charge failed).
 * Summary of Stripe process:
