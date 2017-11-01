@@ -3,29 +3,17 @@
   
 ## github.com/Alan-Miller/[animations](https://github.com/Alan-Miller/animations)
 
-ANIMATIONS: Simple HTML/CSS page showing two divs that have different animations and transitions. Comments in the CSS explain the use of transitions and animations. Simple JS file adds an onClick event to the divs to add a class to them.
+Simple HTML/CSS page showing two divs that have different animations and transitions. Comments in the CSS explain the use of transitions and animations. Simple JS file adds an onClick event to the divs to add a class to them.
 
-Tech:
-* CSS 
+Tech: CSS 
 
 ---
 
-## carousel  
-[github.com/Alan-Miller/carousel](https://github.com/Alan-Miller/carousel)
+## github.com/Alan-Miller/[carousel](https://github.com/Alan-Miller/carousel)
 
 Carousel with forward and back buttons and auto-forward.
 
-<details>
-<summary>Details</summary>
-
-* setInterval changes photos automatically.
-* Back and Forward buttons change photo manually and restarts automatic interval.
-</details>
-<br/>
-
-Tech:
-* React
-* CSS and inline styles
+Tech: React, CSS, and inline styles
 
 ---
   
