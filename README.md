@@ -1,8 +1,7 @@
 
 ---
   
-## animations
-[github.com/Alan-Miller/animations](https://github.com/Alan-Miller/animations)
+## github.com/Alan-Miller/[animations](https://github.com/Alan-Miller/animations)
 
 Simple HTML/CSS page showing two divs that have different animations and transitions. Comments in the CSS explain the use of transitions and animations. Simple JS file adds an onClick event to the divs to add a class to them.
 
