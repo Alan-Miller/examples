@@ -25,7 +25,7 @@ Tech: React, Redux, axios
 
 ---
   
-## parallax (3 different kinds)
+## parallax (3 kinds)
 
 * github.com/Alan-Miller/[Parallax-CSS](https://github.com/Alan-Miller/Parallax-CSS)
 * github.com/Alan-Miller/[Parallax-Fixed-Image](https://github.com/Alan-Miller/Parallax-Fixed-Image)
