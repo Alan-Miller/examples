@@ -26,10 +26,9 @@ Tech: React, Redux, axios
 ---
   
 ## parallax (3 kinds)
-
-* github.com/Alan-Miller/[Parallax-CSS](https://github.com/Alan-Miller/Parallax-CSS)
-* github.com/Alan-Miller/[Parallax-Fixed-Image](https://github.com/Alan-Miller/Parallax-Fixed-Image)
-* github.com/Alan-Miller/[Parallax-scrollTop](https://github.com/Alan-Miller/Parallax-scrollTop)
+#### github.com/Alan-Miller/[Parallax-CSS](https://github.com/Alan-Miller/Parallax-CSS)
+#### github.com/Alan-Miller/[Parallax-Fixed-Image](https://github.com/Alan-Miller/Parallax-Fixed-Image)
+#### github.com/Alan-Miller/[Parallax-scrollTop](https://github.com/Alan-Miller/Parallax-scrollTop)
 
 <details>
 <summary>Details</summary>
