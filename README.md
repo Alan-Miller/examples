@@ -24,6 +24,14 @@ Small Redux shop app lets user browse, view details, and place items in cart or 
 Tech: React, Redux, axios
 
 ---
+
+## github.com/Alan-Miller/[lifecycle](https://github.com/Alan-Miller/lifecycle)
+
+Small React app with nested components that passes down props and console logs lifecycle methods as they fire. Interval counts up but clears itself out when the component unmounts. Child component checks incoming props and does not update when props equal "$$$$".
+
+Tech: React
+
+---
   
 ## parallax (3 kinds)
 ### github.com/Alan-Miller/[parallax-css](https://github.com/Alan-Miller/parallax-css)
