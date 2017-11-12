@@ -67,6 +67,14 @@ Tech: React, Redux, react-promise-middleware, axios, massive
 
 ---
   
+## github.com/Alan-Miller/[s3](https://github.com/Alan-Miller/s3)
+
+Small S3 app with React front end. App uploads local images to AWS S3 and returns the image's new URL.
+
+Tech: React, S3
+
+---
+  
 ## github.com/Alan-Miller/[sass-workshop](https://github.com/Alan-Miller/sass-workshop)
 
 Example of Sass. README file has detailed instructions for setting up Sass in a React app and using many of Sass's features.
