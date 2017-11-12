@@ -75,7 +75,7 @@ Tech: React, S3
 
 ---
   
-## github.com/Alan-Miller/[sass-workshop](https://github.com/Alan-Miller/sass-workshop)
+## github.com/Alan-Miller/[sass](https://github.com/Alan-Miller/sass)
 
 Example of Sass. README file has detailed instructions for setting up Sass in a React app and using many of Sass's features.
 
