@@ -27,13 +27,11 @@ Tech: React, Redux, axios
 
 ## github.com/Alan-Miller/[digital-ocean](https://github.com/Alan-Miller/digital-ocean)
 
-Thorough walkthrough for hosting a project on Digital Ocean. Includes detailed information about setting up and signing into a droplet, preparing your code, copying it to the server, and getting the project running. Includes optional information about swapfiles, working with database hosted on Digital Ocean, transferring databases, and simplifying SSH user logins.
+Thorough walkthrough for hosting a project on Digital Ocean. Includes detailed information about setting up and signing into a droplet, preparing your code, copying it to the server, and getting the project running. Includes optional information about swapfiles, nginx, working with database hosted on Digital Ocean, transferring databases, and simplifying SSH user logins.
 
 Tech: Node, forever
 
 ---
-
-https://github.com/Alan-Miller/digital-ocean
 
 ## github.com/Alan-Miller/[lifecycle](https://github.com/Alan-Miller/lifecycle)
 
