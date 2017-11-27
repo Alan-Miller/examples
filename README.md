@@ -25,6 +25,16 @@ Tech: React, Redux, axios
 
 ---
 
+## github.com/Alan-Miller/[digital-ocean](https://github.com/Alan-Miller/digital-ocean)
+
+Thorough walkthrough for hosting a project on Digital Ocean. Includes detailed information about setting up and signing into a droplet, preparing your code, copying it to the server, and getting the project running. Includes optional information about swapfiles, working with database hosted on Digital Ocean, transferring databases, and simplifying SSH user logins.
+
+Tech: Node, forever
+
+---
+
+https://github.com/Alan-Miller/digital-ocean
+
 ## github.com/Alan-Miller/[lifecycle](https://github.com/Alan-Miller/lifecycle)
 
 Small React app with nested components that passes down props and console logs lifecycle methods as they fire. Interval counts up but clears itself out when the component unmounts. Child component checks incoming props and does not update when props equal "$$$$".
