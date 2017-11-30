@@ -93,7 +93,7 @@ Tech: React, Sass
 
 ## github.com/Alan-Miller/[senecajs](https://github.com/Alan-Miller/senecajs)
 
-Example of two Seneca services talking to each other, connected to an Express app. Uses a simple React front end with axios.
+Example of two Seneca microservices talking to each other, connected to an Express app. Uses a simple React front end with axios.
 
 Tech: SenecaJS, Express, axios, React
 
