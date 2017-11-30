@@ -90,6 +90,14 @@ Example of Sass. README file has detailed instructions for setting up Sass in a 
 Tech: React, Sass
 
 ---
+
+## github.com/Alan-Miller/[senecajs](https://github.com/Alan-Miller/senecajs)
+
+Example of two Seneca services talking to each other, connected to an Express app. Uses a simple React front end with axios.
+
+Tech: SenecaJS, Express, axios, React
+
+---
   
 ## github.com/Alan-Miller/[stripe-checkout](https://github.com/Alan-Miller/stripe-checkout)
 
