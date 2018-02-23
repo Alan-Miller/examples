@@ -69,7 +69,7 @@ Tech: React, Redux, axios, massive
 
 ## github.com/Alan-Miller/[remote-vscode](https://github.com/Alan-Miller/remote-vscode)
 
-Instructions for setting up VS Code to edit files on a remote server.
+Instructions for setting up VS Code to edit files on a remote server. Never use Vim again.
 
 Tech: Remote VSCode extension, shell script
 
