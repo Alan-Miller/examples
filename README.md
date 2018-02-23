@@ -66,6 +66,14 @@ App lets user route to different components, making API and database requests an
 Tech: React, Redux, axios, massive
 
 ---
+
+## github.com/Alan-Miller/[remote-vscode](https://github.com/Alan-Miller/remote-vscode)
+
+Instructions for setting up VS Code to edit files on a remote server.
+
+Tech: Remote VSCode extension, shell script
+
+---
   
 ## github.com/Alan-Miller/[rpm](https://github.com/Alan-Miller/rpm) (react-promise-middleware)
 
