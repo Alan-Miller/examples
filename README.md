@@ -101,7 +101,7 @@ Tech: SenecaJS, Express, axios, React
   
 ## github.com/Alan-Miller/[stripe-checkout](https://github.com/Alan-Miller/stripe-checkout)
 
-Example of Stripe Checkout (simple) in React. Based on [Joe Blank's repo](https://github.com/joeblank/react-stripe). Contains some extra notes in the comments taken from Joe's explanation of the process.
+Example of Stripe Checkout (simple) in React. Based on [Joe Blank's repo](https://github.com/joeblank/react-stripe). README talks about the process from front to back (and then back to front). Includes notes about putting Stripe keys in .env files.
 
 Tech: React, Stripe Checkout
 
