@@ -59,14 +59,6 @@ Tech: CSS (no JS), jQuery (vanilla JS)
 
 ---
 
-## github.com/Alan-Miller/[reducks](https://github.com/Alan-Miller/reducks)
-
-App lets user route to different components, making API and database requests and changing values on Redux.
-
-Tech: React, Redux, axios, massive
-
----
-
 ## github.com/Alan-Miller/[remote-vscode](https://github.com/Alan-Miller/remote-vscode)
 
 Instructions for setting up VS Code to edit files on a remote server. Never use Vim again.
