@@ -59,14 +59,6 @@ Tech: CSS (no JS), jQuery (vanilla JS)
 
 ---
 
-## github.com/Alan-Miller/[slick](https://github.com/Alan-Miller/slick)
-
-Working react-slick carousel with various options and with styled text.
-
-Tech: React, react-slick
-
----
-
 ## github.com/Alan-Miller/[remote-vscode](https://github.com/Alan-Miller/remote-vscode)
 
 Instructions for setting up VS Code to edit files on a remote server. Never use Vim again.
@@ -104,6 +96,14 @@ Tech: React, Sass
 Example of two Seneca microservices talking to each other, connected to an Express app. Uses a simple React front end with axios.
 
 Tech: SenecaJS, Express, axios, React
+
+---
+
+## github.com/Alan-Miller/[slick](https://github.com/Alan-Miller/slick)
+
+Working react-slick carousel with various options and with styled text.
+
+Tech: React, react-slick
 
 ---
   
