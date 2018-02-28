@@ -59,6 +59,14 @@ Tech: CSS (no JS), jQuery (vanilla JS)
 
 ---
 
+## github.com/Alan-Miller/[slick](https://github.com/Alan-Miller/slick)
+
+Working react-slick carousel with various options and with styled text.
+
+Tech: React, react-slick
+
+---
+
 ## github.com/Alan-Miller/[remote-vscode](https://github.com/Alan-Miller/remote-vscode)
 
 Instructions for setting up VS Code to edit files on a remote server. Never use Vim again.
