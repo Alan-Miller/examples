@@ -41,7 +41,7 @@ Tech: React
 
 ---
   
-## parallax (3 kinds)
+## parallax
 ### github.com/Alan-Miller/[parallax-css](https://github.com/Alan-Miller/parallax-css)
 ### github.com/Alan-Miller/[parallax-fixed-image](https://github.com/Alan-Miller/parallax-fixed-image)
 ### github.com/Alan-Miller/[parallax-scrolltop](https://github.com/Alan-Miller/parallax-scrolltop)
@@ -106,17 +106,21 @@ Working react-slick carousel with various options and with styled text.
 Tech: React, react-slick
 
 ---
-  
-## github.com/Alan-Miller/[stripe-checkout](https://github.com/Alan-Miller/stripe-checkout)
 
-Example of Stripe Checkout (simple) in React. Based on [Joe Blank's repo](https://github.com/joeblank/react-stripe). README talks about the process from front to back (and then back to front). Includes notes about putting Stripe keys in .env files.
-
-Tech: React, Stripe Checkout
-
----
-  
+## Stripe
+## github.com/Alan-Miller/[stripe-checkout](https://github.com/Alan-Miller/stripe-checkout)  
 ## github.com/Alan-Miller/[stripe-checkout-custom](https://github.com/Alan-Miller/stripe-checkout-custom)
+## github.com/Alan-Miller/[stripe-elements](https://github.com/Alan-Miller/stripe-elements)
 
-Example of Stripe Checkout (with custom button) in React. Uses ```<script>``` tag instead of installing ```react-stripe-checkout```.
+<details>
+<summary>Details</summary>
 
-Tech: React, Stripe Checkout
+* Stripe Checkout (simple)
+  Tech: `stripe` and `react-stripe-checkout`
+* Stripe Checkout (custom)
+  Tech: `stripe`
+* `react-stripe-elements` NPM package, React wrapper for Stripe Elements
+  Tech: `react-stripe-elements`
+</details>
+
+
