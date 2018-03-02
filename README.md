@@ -108,9 +108,9 @@ Tech: React, react-slick
 ---
 
 ## Stripe
-## github.com/Alan-Miller/[stripe-checkout](https://github.com/Alan-Miller/stripe-checkout)  
-## github.com/Alan-Miller/[stripe-checkout-custom](https://github.com/Alan-Miller/stripe-checkout-custom)
-## github.com/Alan-Miller/[stripe-elements](https://github.com/Alan-Miller/stripe-elements)
+### github.com/Alan-Miller/[stripe-checkout](https://github.com/Alan-Miller/stripe-checkout)  
+### github.com/Alan-Miller/[stripe-checkout-custom](https://github.com/Alan-Miller/stripe-checkout-custom)
+### github.com/Alan-Miller/[stripe-elements](https://github.com/Alan-Miller/stripe-elements)
 
 <details>
 <summary>Details</summary>
