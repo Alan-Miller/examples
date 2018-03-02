@@ -116,10 +116,15 @@ Tech: React, react-slick
 <summary>Details</summary>
 
 * Stripe Checkout (simple)
+
   Tech: `stripe` and `react-stripe-checkout`
+  
 * Stripe Checkout (custom)
+
   Tech: `stripe`
+
 * `react-stripe-elements` NPM package, React wrapper for Stripe Elements
+
   Tech: `react-stripe-elements`
 </details>
 
