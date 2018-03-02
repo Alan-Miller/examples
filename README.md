@@ -115,15 +115,15 @@ Tech: React, react-slick
 <details>
 <summary>Details</summary>
 
-* Stripe Checkout (simple)
+* Stripe Checkout (simple) is a ready-made Stripe button that goes to Stripe's payment form. You can customize some of the built-in settings, but you cannot really style the Pay button freely.
 
   Tech: `stripe` and `react-stripe-checkout`
   
-* Stripe Checkout (custom)
+* Stripe Checkout (custom) allows you to customize the styles of Stripe, including the Pay button. The trade-off is that implementation is just a little more in-depth.
 
   Tech: `stripe`
 
-* `react-stripe-elements` NPM package, React wrapper for Stripe Elements
+* `react-stripe-elements` is an NPM package that is a React wrapper for Stripe Elements. Stripe Elements gives you freedom to style Stripe completely, including the form itself. Instead of leaving your app to go to Stripe's form, you style the form right on your own page.
 
   Tech: `react-stripe-elements`
 </details>
