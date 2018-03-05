@@ -123,7 +123,7 @@ Tech: React, react-slick
 
   Tech: `stripe`
 
-* `react-stripe-elements` is an NPM package that is a React wrapper for Stripe Elements. Stripe Elements gives you freedom to style Stripe completely, including the form itself. Instead of leaving your app to go to Stripe's form, you style the form right on your own page.
+* `react-stripe-elements` is an NPM package that is a React wrapper for Stripe Elements. Stripe Elements gives you freedom to style Stripe completely, including the form itself. Instead of being directed away from your app to Stripe's page to fill out the form, you style the form right on your own page.
 
   Tech: `react-stripe-elements`
 </details>
