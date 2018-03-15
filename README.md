@@ -69,7 +69,7 @@ Tech: Remote VSCode extension, shell script
 
 ## github.com/Alan-Miller/[redux-of-the-jedi](https://github.com/Alan-Miller/redux-of-the-jedi)
 
-Minimalistic app uses Redux to change a few simple values on state.
+Minimalistic app uses Redux to change a few simple values on state. Has multiple branches, including complete and incomplete branches.
 
 Tech: React, Redux
 
