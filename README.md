@@ -66,12 +66,20 @@ Instructions for setting up VS Code to edit files on a remote server. Never use 
 Tech: Remote VSCode extension, shell script
 
 ---
+
+## github.com/Alan-Miller/[redux-of-the-jedi](https://github.com/Alan-Miller/redux-of-the-jedi)
+
+Minimalistic app uses Redux to change a few simple values on state.
+
+Tech: React, Redux
+
+---
   
-## github.com/Alan-Miller/[rpm](https://github.com/Alan-Miller/rpm) (react-promise-middleware)
+## github.com/Alan-Miller/[rpm](https://github.com/Alan-Miller/rpm) (redux-promise-middleware)
 
-List app lets user add and delete list items in a database, using Redux to store the values and react-promise-middleware to handle the promises.
+List app lets user add and delete list items in a database, using Redux to store the values and redux-promise-middleware to handle the promises.
 
-Tech: React, Redux, react-promise-middleware, axios, massive
+Tech: React, Redux, redux-promise-middleware, axios, massive
 
 ---
   
